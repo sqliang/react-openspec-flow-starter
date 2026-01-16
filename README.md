@@ -34,6 +34,7 @@ Our workflow is crystal clear: **Humans use OpenSpec tools to define and validat
 
 This project strictly follows the four-step development loop defined by OpenSpec, ensuring lossless transmission from thought to code:
 
+```text
 ┌────────────────────┐
 │ 1. Draft Proposal  │  ✏️ Human: Define requirements in specs/ directory
 └────────┬───────────┘
@@ -52,6 +53,7 @@ This project strictly follows the four-step development loop defined by OpenSpec
 ┌────────────────────┐
 │ 4. Archive & Update│  📚 System: Spec is documentation & foundation for new features
 └────────────────────┘
+```
 
 ```mermaid
 graph TD
